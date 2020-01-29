@@ -84,12 +84,15 @@ h3 {
 
 .sentence11 {
 	text-transform: uppercase;
+	font-size:24px;
 }
 
 .sentence12 {
 	text-transform: lowercase;
+	font-size:24px;
 }
 
 .sentence13 {
 	text-transform: capitalize;
+	font-size:24px;
 }
