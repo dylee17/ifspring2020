@@ -1,0 +1,95 @@
+body {
+
+	margin-left: 100px;
+	margin-bottom: 100px;
+	margin-right: 70px;
+	margin-left: 70px;
+	font-family: 'Open Sans', sans-serif;
+
+}
+
+h1 {
+	font-size:50px;
+}
+
+h2 {
+	font-size: 25px;
+}
+
+h3 {
+	font-size: 25px;
+}
+
+.title {
+	color:#A9A9A9;
+	font-size:1.9rem;
+
+}
+
+.subtitle {
+	color:#5F9EA0;
+	font-size:15px;
+
+}
+
+.sentence1{
+	font-weight: normal;
+	font-size:24px;
+}
+
+.sentence2{
+	font-weight: bold;
+	font-size:24px;
+}
+
+.sentence3 {
+	letter-spacing: normal;
+	font-size:24px;
+}
+
+.sentence4 {
+	letter-spacing: .3em;
+	font-size:24px;
+}
+
+.sentence5 {
+	letter-spacing: -.06em;
+	font-size:24px;
+}
+
+.sentence6 {
+	text-decoration: none;
+	font-size:24px;
+}
+
+.sentence7 {
+	text-decoration: underline;
+	font-size:24px;
+}
+
+.sentence8{
+	text-decoration: line-through;
+	font-size:24px;
+}
+
+.sentence9 {
+	text-decoration: overline;
+	font-size:24px;
+}
+
+.sentence10 {
+	text-transform: none;
+	font-size:24px;
+}
+
+.sentence11 {
+	text-transform: uppercase;
+}
+
+.sentence12 {
+	text-transform: lowercase;
+}
+
+.sentence13 {
+	text-transform: capitalize;
+}
