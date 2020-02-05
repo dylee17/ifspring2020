@@ -50,11 +50,11 @@ img {
 	font-size: 0.8rem;
 }
 
-div:fist-of-type {
+a div:first-of-type {
  	font-weight: bold;
 }
 
-div:last-of-type {
+a div:last-of-type {
 	font-style: italic;
 }
 
