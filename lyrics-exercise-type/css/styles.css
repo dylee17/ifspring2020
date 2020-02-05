@@ -1,0 +1,53 @@
+body {
+	margin-left: 100px;
+	margin-right: 100px;
+	margin-bottom: 70px;
+	margin-top: 70px;
+	font-family:'Noto Sans HK', sans-serif;
+}
+
+h1 {
+
+	 font-size:80px;
+	 color:#F5F5F5;
+	 text-align:center;
+	 margin-bottom:-30px;
+
+}
+
+h3 {
+	
+	font-size:45px;
+	color:#F5F5F5;
+	text-align:center;
+
+}
+
+#image {
+	text-align:center;
+}
+
+
+#music-player {
+	text-align:center;
+}
+
+#lyrics-verse {
+	text-align:center;
+	color:#FAFAD2;
+	font-weight: bold;
+}
+
+#lyrics-chorus{
+	text-align:center;
+	color:#F5F5F5;
+	font-weight: bold;
+}
+
+#lyrics-prechorus{
+	text-align:center;
+	color:#F5FFFA;
+	font-weight: bold;
+
+}
+
