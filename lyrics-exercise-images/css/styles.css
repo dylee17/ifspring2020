@@ -1,0 +1,76 @@
+body {
+	margin-left: 100px;
+	margin-right: 100px;
+	margin-bottom: 70px;
+	margin-top: 70px;
+	font-family:'Noto Sans HK', sans-serif;
+}
+
+h1 {
+
+	 font-size:80px;
+	 color:#F5F5F5;
+	 text-align:center;
+	 margin-bottom:-30px;
+
+}
+
+
+
+h3 {
+	
+	font-size:45px;
+	color:#F5F5F5;
+	text-align:center;
+
+}
+
+img {
+	border-radius: 8px;
+	opacity: 0.6;
+}
+
+
+#image {
+	text-align:center;
+}
+
+
+#music-player {
+	text-align:center;
+}
+
+#lyrics-verse {
+	text-align:center;
+	color:#FAFAD2;
+	font-weight: bold;
+}
+
+#lyrics-verse:hover {
+	color: #98FB98;
+}
+
+#lyrics-chorus{
+	text-align:center;
+	color:#F5F5F5;
+	font-weight: bold;
+
+}
+
+#lyrics-chorus:hover {
+	color: #98FB98;
+}
+
+#lyrics-prechorus{
+	text-align:center;
+	color:#F5FFFA;
+	font-weight: bold;
+}
+
+#lyrics-prechorus:hover {
+	color: #98FB98;
+}
+
+
+
+
