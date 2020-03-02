@@ -241,7 +241,7 @@ span.C{
 	display:inline block;
 	box-sizing:border box;
 	margin:auto;
-	margin-top:20px;
+	margin-bottom:-20px;
 	padding-top:;
 	text-align:center;
 	width:100px;
@@ -255,9 +255,9 @@ span.C{
 }
 
 span.C:hover{
-	border: 2px solid white;
 	background-color:white;
 	color:black;
+
 
 }
 
@@ -268,8 +268,7 @@ span.NN{
 	height:100px;
 	box-sizing:border box;
 	margin:auto;
-	margin-bottom:-50px;
-	padding-top:;
+	margin-top:-20px;
 	border: 2px solid black;
 	background-color:black;
 	text-align:center;
@@ -281,7 +280,6 @@ span.NN{
 }
 
 span.NN:hover{
-	border: 2px solid white;
 	background-color:white;
 	color:black;
 
