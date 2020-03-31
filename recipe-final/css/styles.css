@@ -43,6 +43,10 @@ a#recipe{
 	text-decoration:none;
 }
 
+a#recipe:visited{
+	color:#696969;
+}
+
 .time{
 	font-family: 'Karla', sans-serif;
 	font-size:19px;
@@ -281,15 +285,6 @@ hr{
 }
 
 
-.fb a#fbfb:link{
-	color:#4169E1;
-}
-
-
-.fb a#fbfb:visited{
-	color:#4169E1;
-}
-
 .fb{
 	color:#4169E1;
 	font-size:40px;
@@ -301,6 +296,11 @@ hr{
 
 }
 
+a#fbfb:visited:{
+	color:#4169E1;
+}
+
+
 .twitter{
 	color:#00BFFF;
 	font-size:40px;
@@ -311,6 +311,10 @@ hr{
 	text-decoration:none;
 }
 
+a#twit:visited{
+	color:#00BFFF;
+}
+
 .pinterest{
 	color:#FF0000;
 	font-size:40px;
@@ -319,4 +323,8 @@ hr{
 	margin: 0 0 10px 0;
 	margin-left: 20px;
 	text-decoration:none;
+}
+
+a#pin:visited{
+	color:#FF0000;
 }
