@@ -1,0 +1,560 @@
+#coverbody{
+	padding:40px;
+	margin:0;
+	background-image:url('../image/1 copy.jpg');
+	background-image:scale(0.2);
+	background-repeat:no-repeat;
+	background-size: 1800px;
+	background-position: 0% 30%;
+	margin:0;
+}
+
+.navigation{
+	font-size:19px;
+	font-family: 'Roboto', sans-serif;
+	letter-spacing: 0.5px;
+	min-width:150px;
+	font-weight:400;
+	margin-top:30px;
+	margin-left:80px;
+
+}
+
+a#about{
+	text-decoration:none;
+	color:#4682B4;
+	margin-right:15px;
+	transition: all .4s;
+}
+
+a#about:hover{
+	color:#fff;
+
+}
+
+
+a#early{
+	text-decoration:none;
+	color:#4682B4;
+	margin-right:15px;
+	transition: all .4s;
+
+}
+
+a#early:hover{
+	color:white;
+
+}
+
+
+
+a#actress{
+	text-decoration:none;
+	color:#4682B4;
+	margin-right:15px;
+	transition: all .4s;
+
+}
+
+a#actress:hover{
+	color:white;
+	
+
+}
+
+
+a#activist{
+	text-decoration:none;
+	color:#4682B4;
+	margin-right:15px;
+	transition: all .4s;
+
+}
+
+a#activist:hover{
+	color:white;
+
+}
+
+
+a#sources{
+	text-decoration:none;
+	color:#4682B4;
+	margin-right:15px;
+	transition: all .4s;
+
+}
+
+a#sources:hover{
+	color:white;
+	
+
+}
+
+
+h1{
+	font-family: 'Playfair Display', serif;
+	font-size:160px;
+	font-weight:400;
+	margin-top:75px;
+	margin-left:70px;
+}
+
+h2{
+	font-family: 'Playfair Display', serif;
+	font-size:160px;
+	font-weight:400;
+	margin-top:-170px;
+	margin-left:75px;	
+}
+
+h3{
+	color:#4682B4;
+	font-family: 'Playfair Display SC', serif;
+	font-style:italic;
+	font-weight:400;
+	font-size:40px;
+	margin-top:-130px;
+	margin-left:84px;
+}
+
+p{
+	color:#4682B4;
+	font-family: 'Playfair Display', serif;
+	font-size:19.5px;
+	font-style:italic;
+	margin-left:80px;
+	margin-top:-10px;
+}
+
+/*navigation non-cover*/
+
+.navigation1{
+	font-size:19px;
+	font-family: 'Roboto', sans-serif;
+	letter-spacing: 0.5px;
+	min-width:150px;
+	font-weight:400;
+	margin-top:30px;
+	margin-left:80px;
+
+}
+
+a#about1{
+	text-decoration:none;
+	color:#4682B4;
+	margin-right:15px;
+	transition: all .4s;
+}
+
+a#about1:hover{
+	color:#ADD8E6;
+
+}
+
+
+a#early1{
+	text-decoration:none;
+	color:#4682B4;
+	margin-right:15px;
+	transition: all .4s;
+
+}
+
+a#early1:hover{
+	color:#ADD8E6;
+
+}
+
+
+
+a#actress1{
+	text-decoration:none;
+	color:#4682B4;
+	margin-right:15px;
+	transition: all .4s;
+
+}
+
+a#actress1:hover{
+	color:#ADD8E6;
+	
+
+}
+
+
+a#activist1{
+	text-decoration:none;
+	color:#4682B4;
+	margin-right:15px;
+	transition: all .4s;
+
+}
+
+a#activist1:hover{
+	color:#ADD8E6;
+
+}
+
+
+a#sources{
+	text-decoration:none;
+	color:#4682B4;
+	margin-right:15px;
+	transition: all .4s;
+
+}
+
+a#sources:hover{
+	color:#ADD8E6;
+	
+
+}
+
+
+
+/* ABOUT */ 
+
+#aboutbody{
+	padding-top:50px;
+	margin:0;
+	background-color:#708090;
+	background-image:linear-gradient(#708090,#fff);
+	background-repeat:no-repeat;
+	background:scroll;
+	padding-bottom:50px;
+
+}
+
+a.abouttitle{
+	font-family: 'Playfair Display', serif;
+	padding-top:20px;
+	font-size:40px;
+	font-weight:bold;
+	color:black;
+	text-decoration:none;
+	letter-spacing:5px;
+	margin-left:78px;
+	margin-top:20px;
+	
+
+}
+
+#titleabout{
+	font-family: 'Playfair Display', serif;
+	font-style:italic;
+	font-weight:400;
+	letter-spacing:1px;
+	font-size:30px;
+	color:black;
+	margin-left:480px;
+	margin-top:70px;
+	margin-bottom:20px;
+
+}
+
+.about_img{
+	width:16%;
+	float:left;
+	margin-left:80px;
+	margin-right:40px;
+	border: solid 0.5em #4682B4;
+	border-right-color: #4682B4;
+	margin-top:-5px;
+}
+
+p#abouttext{
+	font-size:16px;
+	line-height:25px;
+	font-style:normal;
+	font-family: 'Roboto', sans-serif;
+	margin-right:300px;
+	margin-left:480px;
+	padding-bottom:6px;
+
+}
+
+/*EARLY LIFE*/
+
+#earlybody{
+	padding-top:50px;
+	margin:0;
+	background-color:#FFFAF0;
+	background-image:linear-gradient(#FFFAF0,#fff);
+	background-repeat:no-repeat;
+	background:scroll;
+	padding-bottom:50px;
+
+}
+
+#titleearly{
+	font-family: 'Playfair Display', serif;
+	font-style:italic;
+	font-weight:400;
+	letter-spacing:1px;
+	font-size:30px;
+	color:black;
+	margin-left:460px;
+	margin-top:76px;
+	margin-bottom:20px;
+
+}
+
+p#earlytext{
+
+	font-size:16px;
+	line-height:25px;
+	font-style:normal;
+	font-family: 'Roboto', sans-serif;
+	margin-right:300px;
+	margin-left:460px;
+	padding-bottom:6px;
+	margin-top:-7px;
+
+}
+
+.about_img2{
+	width:16%;
+	float:left;
+	margin-left:80px;
+	margin-right:40px;
+	border: solid 0.5em #4682B4;
+	border-right-color: #4682B4;
+	margin-top:20px;
+}
+
+/*ACTRESS*/
+
+#actressbody{
+	padding-top:50px;
+	margin:0;
+	background-color:#FFFAF0;
+	background-image:linear-gradient(#FFFAF0,#fff);
+	background-repeat:no-repeat;
+	background:scroll;
+	padding-bottom:50px;
+
+}
+
+#titleactress{
+	font-family: 'Playfair Display', serif;
+	font-style:italic;
+	font-weight:400;
+	letter-spacing:1px;
+	font-size:30px;
+	color:black;
+	margin-left:78px;
+	margin-top:76px;
+	margin-bottom:20px;
+
+}
+
+p#careertext{
+
+	font-size:16px;
+	line-height:25px;
+	font-style:normal;
+	font-family: 'Roboto', sans-serif;
+	margin-right:300px;
+	margin-left:580px;
+	padding-bottom:6px;
+	margin-top:10px;
+}
+
+#fact1{
+	font-family: 'Playfair Display', serif;
+	font-style:italic;	
+	font-weight:500;
+	letter-spacing:1px;
+	font-size:22px;
+	color:#4682B4;
+	margin-top:40px;
+	margin-left:580px;
+	margin-bottom:35px;
+}
+
+.about_img3{
+	width:24%;
+	float:left;
+	margin-left:80px;
+	margin-right:80px;
+	border: solid 0.5em #4682B4;
+	border-right-color: #4682B4;
+	margin-top:16px;
+}
+
+#fact2{
+	font-family: 'Playfair Display', serif;
+	font-style:italic;	
+	font-weight:500;
+	letter-spacing:1px;
+	font-size:22px;
+	color:#4682B4;
+	margin-left:80px;
+	margin-top:40px;
+	margin-bottom:35px;
+
+}
+
+.about_img4{
+	width:16%;
+	float:left;
+	margin-left:80px;
+	margin-right:80px;
+	border: solid 0.5em #4682B4;
+	border-right-color: #4682B4;
+	margin-top:16px;
+}
+
+p#careertext2{
+	font-size:16px;
+	line-height:25px;
+	font-style:normal;
+	font-family: 'Roboto', sans-serif;
+	margin-top:10px;
+	margin-right:320px;
+	margin-left:440px;
+}
+
+#fact3{
+	font-family: 'Playfair Display', serif;
+	font-style:italic;	
+	font-weight:500;
+	letter-spacing:1px;
+	font-size:22px;
+	color:#4682B4;
+	margin-top:40px;
+	margin-left:440px;
+	margin-bottom:35px;
+}
+
+.about_img5{
+	width:16%;
+	float:left;
+	margin-left:80px;
+	margin-right:80px;
+	border: solid 0.5em #4682B4;
+	border-right-color: #4682B4;
+	margin-top:16px;
+}
+
+p#careertext3{
+	font-size:16px;
+	line-height:25px;
+	font-style:normal;
+	font-family: 'Roboto', sans-serif;
+	margin-top:10px;
+	margin-right:320px;
+	margin-left:440px;
+}
+
+/*ACTIVIST*/
+
+#activistbody{
+	padding-top:50px;
+	margin:0;
+	background-color:#FFFAF0;
+	background-image:linear-gradient(#FFFAF0,#fff);
+	background-repeat:no-repeat;
+	background:scroll;
+	padding-bottom:50px;
+
+}
+
+a.activisttitle{
+	font-family: 'Playfair Display', serif;
+	padding-top:20px;
+	font-size:40px;
+	font-weight:bold;
+	color:black;
+	text-decoration:none;
+	letter-spacing:5px;
+	margin-left:78px;
+	margin-top:20px;
+	
+
+}
+
+#titleactivist{
+	font-family: 'Playfair Display', serif;
+	font-style:italic;
+	font-weight:400;
+	letter-spacing:1px;
+	font-size:30px;
+	color:black;
+	margin-left:440px;
+	margin-top:70px;
+	margin-bottom:20px;
+
+}
+
+.about_img6{
+	width:16%;
+	float:left;
+	margin-left:80px;
+	margin-right:40px;
+	border: solid 0.5em #4682B4;
+	border-right-color: #4682B4;
+	margin-top:-5px;
+}
+
+p#activisttext{
+	font-size:16px;
+	line-height:25px;
+	font-style:normal;
+	font-family: 'Roboto', sans-serif;
+	margin-top:10px;
+	margin-right:320px;
+	margin-left:440px;
+}
+
+/*Sources*/
+
+
+a.textsource{
+	text-decoration:none;
+	font-size:8px;
+	font-style:normal;
+	font-family: 'Roboto', sans-serif;
+	color:#4682B4;
+	margin: 0;
+	padding-right: 20px;
+	padding-bottom: 5px;
+	padding-top: 5px;
+	text-align:right;
+
+}
+
+a.textsource:visited{
+	color:#4682B4;
+}
+
+
+a.imagesource{
+	text-decoration:none;
+	font-size:8px;
+	font-style:normal;
+	font-family: 'Roboto', sans-serif;
+	color:#4682B4;
+	margin: 0;
+	padding-right: 20px;
+	padding-bottom: 5px;
+	padding-top: 5px;
+	margin-bottom:-20px;
+	text-align:right;
+}
+
+a.imagesource:visited{
+	color:#4682B4;
+}
+
+p#sourcestext1{
+	font-size:0.2px;
+}
+
+p#sourcestext{
+	font-size:0.2px;
+}
+
+
+

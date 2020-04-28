@@ -1,7 +1,7 @@
 #coverbody{
 	padding:40px;
 	margin:0;
-	background-image:url('../image/1.jpg');
+	background-image:url('../image/1 copy.jpg');
 	background-image:scale(0.2);
 	background-repeat:no-repeat;
 	background-size: 1800px;
@@ -193,8 +193,8 @@ p#abouttext{
 #earlybody{
 	padding-top:50px;
 	margin:0;
-	background-color:#FFFAF0;
-	background-image:linear-gradient(#FFFAF0,#fff);
+	background-color:black;
+	background-image:linear-gradient(black,#fff);
 	background-repeat:no-repeat;
 	background:scroll;
 	padding-bottom:50px;
